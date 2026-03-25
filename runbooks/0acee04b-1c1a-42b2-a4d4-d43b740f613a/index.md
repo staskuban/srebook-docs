@@ -1,5 +1,7 @@
 ---
 title: "testing_functionality_and_contents_for_a_new_runbook_procedure"
+runbook_type: instruction
+published_at: "2026-03-25"
 layout: default
 ---
 
